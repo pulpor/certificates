@@ -1,2 +1,3 @@
-# certificates
-Here are the certificates from the courses I've completed throughout my career.
+# Meus Certificados e Documentos 🎓
+
+Este repositório contém uma coleção dos meus certificados e documentos relevantes em diferentes áreas, organizados por segmentos.
